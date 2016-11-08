@@ -1,1 +1,34 @@
 /* YOUR STYLES */
+
+
+/* CHANGE FONTS */
+body {
+    background: #000;
+    font-family: 'Lato', sans-serif;
+}
+
+/* HEADER */
+.cd-header {
+    background-color: #a10022;
+}
+
+/* CONTENT CONTAINERS */
+.cd-gallery li.mix {
+    background: white;
+    padding: 1em;
+}
+
+/* GRID VIEW */
+.grid li.mix {
+    
+}
+
+/* LIST VIEW */
+.list li.mix {
+    width: 100%;
+    
+}
+
+.list li.mix p {
+    display: none;
+}
