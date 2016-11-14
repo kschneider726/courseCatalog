@@ -23,3 +23,14 @@ $('#list').click( function(){
     console.log('Please!');
     
 });
+
+//MASONRY
+//$('section').masonry({
+    //options
+  //itemSelector: 'li',
+  //columnWidth: 10px,
+  //gutter: 10,
+  //transitionDuration: '.5s'
+    
+//});
+

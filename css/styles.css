@@ -3,19 +3,42 @@
 
 /* CHANGE FONTS */
 body {
-    background: #000;
+    background: #6d6e71;
     font-family: 'Lato', sans-serif;
 }
 
 /* HEADER */
 .cd-header {
     background-color: #a10022;
+    font-size: 4em;
 }
 
 /* CONTENT CONTAINERS */
 .cd-gallery li.mix {
     background: white;
     padding: 1em;
+    vertical-align: top;
+}
+
+.cd-gallery li.mix p{
+    margin: 10px;
+    padding: 2px;
+    line-height: 1.25;
+    text-align: left;
+}
+
+.cd-gallery li.mix h1, h3, h5 {
+    color: #a10022;
+    padding: 6px;  
+}
+
+.cd-gallery li.mix h2 {
+    background:  #a10022;
+    color: white;
+    line-height: 1.25;
+    margin: 5px;
+    padding: 8px;
+    text-align: left;
 }
 
 /* GRID VIEW */
